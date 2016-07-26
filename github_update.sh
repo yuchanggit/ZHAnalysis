@@ -3,8 +3,10 @@
 
 git add --all
 git commit -m "[update code in github]"
-git pull --rebase upstream master
-git push origin master
+git push mine addMyFile
+
+#git pull --rebase upstream master
+#git push origin master
 
 
 
